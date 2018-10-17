@@ -1,0 +1,27 @@
+1539713707348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QF8C8kFlgU4X"
+1539713709010	Marionette	INFO	Listening on port 2828
+1539713715115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pktsS56fnJ4P"
+1539713716856	Marionette	INFO	Listening on port 2828
+1539713763460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xmZlHicrWji0"
+1539713765170	Marionette	INFO	Listening on port 2828
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 106: TypeError: this._recipeManager is null
+1539713955568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9y0p4KXlgdoW"
+1539713957278	Marionette	INFO	Listening on port 2828
+[Child 10811] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 10811] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1539713991274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LZJcZCxxfxVH"
+1539713992884	Marionette	INFO	Listening on port 2828
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 10982] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 10982] ###!!! ABORT: Aborting on channel error.: file /build/firefox-esr-rYxLz7/firefox-esr-52.7.3esr/ipc/glue/MessageChannel.cpp, line 2152
