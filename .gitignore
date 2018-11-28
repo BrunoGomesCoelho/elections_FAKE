@@ -1,3 +1,12 @@
+# Google API KEY
+api_key.txt
+
+zonas_lat_long_per_state/
+processed_zonas_eleitorais/
+*.csv
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
