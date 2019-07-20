@@ -1,5 +1,8 @@
 # Data Analysis of the 2018 Brazilian Election
 
+A small look at the 2018 Brazilian election, joining the electoral zones with graphical information from IBGE.
+Not a currently maintained repository, but maybe the code could be usefull to somenone :)
+
 ## Data Sources
 The address of the various electoral zones were manually acquired as CSV files from [the oficial tse website](http://www.tse.jus.br/eleitor/servicos/cartorios-e-zonas-eleitorais/pesquisa-a-zonas-eleitorais)
 
